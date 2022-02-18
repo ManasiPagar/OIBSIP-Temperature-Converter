@@ -1,0 +1,43 @@
+*{
+    background: rgba(231, 166, 211, 0.897);
+   
+
+}
+.wrapper{
+    width:450px;
+ 
+    padding: 60px 40px;
+    position: absolute;
+transform: translate(-50%,-50%);
+margin-left:50%;
+top:50%;
+box-shadow: 0 20px 25px black;
+border-radius: 8px;
+
+}
+.pic{
+    width: 224px;
+    height: 224px;
+ 
+    margin-top: -8%;
+    margin-bottom: -18%;
+    margin-left: 27%;
+}
+.converter{
+
+    margin-top: 150px;
+    text-align: center;
+    background: none;
+    
+   margin-bottom: 100px;
+}
+label{
+    font-size: 30px;
+    padding: 5px 5px;
+    font-style: arial;
+}
+input{
+   
+    font-size: 20px;
+ 
+}
